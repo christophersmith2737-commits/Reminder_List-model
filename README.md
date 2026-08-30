@@ -2,6 +2,18 @@
 
 为「清单追踪」类 APP（逐项追问模式）提供**标准化的清单模板与规则**，供用户和 AI 直接使用。
 
+> 📱 本仓库同时包含 **APP 完整源码**：`checklist_app/`（Flutter，Android 版「清单追踪」，
+> 含逐项追问、权重完成度、像素奖杯动画、多计划、成就库、主题切换等全部功能）。
+
+## 目录结构
+
+| 路径 | 内容 |
+|------|------|
+| `checklist_app/` | 清单追踪 APP 完整 Flutter 源码（Android） |
+| `shopping-list/` | 购物清单 Excel 模板 + 示例 |
+| `workflow/` | 工作流 Excel 模板 + 示例 |
+| `TEMPLATE_SPEC.md` | 模板规范（AI 与开发者通用，权威规则） |
+
 ## 给 AI 的规则（重要）
 
 请阅读 `TEMPLATE_SPEC.md` 获取完整规范。核心规则如下，AI 生成表格时请严格遵守：
