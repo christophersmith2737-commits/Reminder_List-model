@@ -1,0 +1,53 @@
+{
+  "title": "开学购买清单",
+  "items": [
+    {
+      "name": "身份证",
+      "quantity": "1张",
+      "note": "报到注册需要，随身携带",
+      "priority": "必需"
+    },
+    {
+      "name": "录取通知书",
+      "quantity": "1份",
+      "note": "放在随身背包，不要托运",
+      "priority": "必需"
+    },
+    {
+      "name": "宿舍床上四件套",
+      "quantity": "2套",
+      "note": "换洗用",
+      "priority": "必需"
+    },
+    {
+      "name": "充电宝",
+      "quantity": "1个",
+      "note": "路上手机续航",
+      "priority": "推荐"
+    },
+    {
+      "name": "雨伞",
+      "quantity": "1把",
+      "note": "放宿舍门口，雨天用",
+      "priority": "推荐"
+    },
+    {
+      "name": "小台灯",
+      "quantity": "1台",
+      "note": "宿舍熄灯后看书",
+      "priority": "推荐"
+    },
+    {
+      "name": "零食",
+      "quantity": "若干",
+      "note": "报到路上吃",
+      "priority": "适用"
+    },
+    {
+      "name": "绿植",
+      "quantity": "1盆",
+      "note": "放书桌，调节心情",
+      "priority": "适用"
+    }
+  ]
+}
